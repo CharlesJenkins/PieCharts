@@ -43,8 +43,6 @@ github "i-schuetz/PieCharts"
 
 ## Usage
 
-###Basic chart:
-
 ```swift
 @IBOutlet weak var chartView: PieChart!
 
